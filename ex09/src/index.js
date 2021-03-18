@@ -5,4 +5,5 @@ function functionElse(num) {
     return "Bigger than 5";
   }
 }
-console.log(functionElse(6))
+console.log(functionElse(6));
+module.exports = functionElse;

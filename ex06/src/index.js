@@ -13,9 +13,6 @@ function comparisonToEqual(a) {
   if (a >= 10) {
     return "10 or over";
   }
-
-  
-  
 }
 console.log(comparisonToEqual(21));
 module.exports = comparisonToEqual;

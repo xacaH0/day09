@@ -7,3 +7,5 @@ function myFunction(myParameter) {
 myFunction(true);
 
 myFunction(false);
+
+module.exports = myFunction;

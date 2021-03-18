@@ -5,6 +5,6 @@ function myEqualFunction(num) {
   return "Not Equal";
 }
 
-console.log(myEqualFunction('23'));
+console.log(myEqualFunction("23"));
 
-module.exports = myEqualFunction
+module.exports = myEqualFunction;

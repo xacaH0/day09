@@ -17,5 +17,5 @@ function switchCase(letter) {
 
   return animals;
 }
-console.log(switchCase("1")); //
+console.log(switchCase("a")); //
 module.exports = switchCase;
